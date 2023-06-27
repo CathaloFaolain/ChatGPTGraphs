@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib 
+plotly
+re 
+pathlib
+json
+ipywidgets
+warnings
+voila
+BeautifulSoup
+html5lib
+seaborn
