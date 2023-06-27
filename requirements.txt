@@ -3,7 +3,6 @@ numpy
 matplotlib 
 plotly
 pathlib
-json
 ipywidgets
 warnings
 voila
