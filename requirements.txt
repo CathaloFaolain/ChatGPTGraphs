@@ -5,5 +5,3 @@ plotly
 pathlib
 ipywidgets
 voila
-html5lib
-seaborn
