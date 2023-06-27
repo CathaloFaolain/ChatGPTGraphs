@@ -5,6 +5,5 @@ plotly
 pathlib
 ipywidgets
 voila
-BeautifulSoup
 html5lib
 seaborn
